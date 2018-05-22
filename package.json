@@ -1,0 +1,19 @@
+{
+  "name": "pwa-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therohitramesh/pwa-news.git"
+  },
+  "author": "Rohit Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therohitramesh/pwa-news/issues"
+  },
+  "homepage": "https://github.com/therohitramesh/pwa-news#readme"
+}
